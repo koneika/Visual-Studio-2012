@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrix_issue3", "matrix_issue3\matrix_issue3.vcxproj", "{3396B62D-13C5-4D97-9A08-0704583C58A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3396B62D-13C5-4D97-9A08-0704583C58A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3396B62D-13C5-4D97-9A08-0704583C58A6}.Debug|Win32.Build.0 = Debug|Win32
+		{3396B62D-13C5-4D97-9A08-0704583C58A6}.Release|Win32.ActiveCfg = Release|Win32
+		{3396B62D-13C5-4D97-9A08-0704583C58A6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

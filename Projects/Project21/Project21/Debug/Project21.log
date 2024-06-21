@@ -1,0 +1,12 @@
+﻿Build started 14.05.2024 1:23:15.
+     1>Project "C:\Users\slava\Documents\Visual Studio 2012\Projects\Project21\Project21\Project21.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\slava\documents\visual studio 2012\projects\project21\project21\source.cpp(302): error C2664: 'add_before_last' : cannot convert parameter 1 from 'node *' to 'int'
+                 There is no context in which this conversion is possible
+     1>Done Building Project "C:\Users\slava\Documents\Visual Studio 2012\Projects\Project21\Project21\Project21.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.43

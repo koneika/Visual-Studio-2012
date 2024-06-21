@@ -1,0 +1,25 @@
+	//string b;
+
+	//for(;;){
+	//	cout << "cryptoman, your password: " << endl;
+	//	cin >> b;
+	//	size_t c = b.length();
+
+	//	cout << int(c) << endl;
+
+	//	char d[c];
+	//	for(int i = 0; i < int(c); i++)
+	//		cout << i << endl;
+
+	//}
+
+	//char a[] = {' '};
+	
+	//for(int i = 0; i < sizeof(a)/2; i++)
+	//	a[i] = 'a';
+
+	//for(int i = 0; i < sizeof(a); i++)
+	//	if(int(a[i]) != -52)
+	//		cout << int(a[i]) << endl;
+
+	//short xz = 1;

@@ -1,0 +1,15 @@
+﻿Build started 11.02.2024 23:09:37.
+     1>Project "C:\Users\slava\Documents\Visual Studio 2012\Projects\Project7\Project7\Project7.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\slava\documents\visual studio 2012\projects\project7\project7\source.cpp(31): error C3115: 'in': this attribute is not allowed on 'hDlg'
+                 c:\users\slava\documents\visual studio 2012\projects\project7\project7\predefined c++ attributes (compiler internal)(858) : see declaration of 'in'
+                 attribute can only be applied to: 'interface member function', 'formal argument of interface member function', 'IDL module'
+     1>c:\users\slava\documents\visual studio 2012\projects\project7\project7\source.cpp(31): error C2373: 'CheckDlgButton' : redefinition; different type modifiers
+                 c:\program files (x86)\windows kits\8.0\include\um\winuser.h(4980) : see declaration of 'CheckDlgButton'
+     1>Done Building Project "C:\Users\slava\Documents\Visual Studio 2012\Projects\Project7\Project7\Project7.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.86
